@@ -1,0 +1,36 @@
+{
+  "name": "node-repo-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test",
+    "start": "node example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/traynor/node-repo-starter.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "traynor <traynor1@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.1.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-eslint": "^4.0.1",
+    "gulp-file-cache": "0.0.1",
+    "gulp-mocha": "^5.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {}
+}
