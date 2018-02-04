@@ -16,8 +16,9 @@ workflow/Gulp tasks:
 3. gulp
 
 ## todo
-[] Add server
-[] Add frontend setup (Browsersync etc.)
+- [ ] Add server
+- [ ] Add frontend setup (Browsersync etc.)
+- [ ] Add API docs
 
 
 Readme template
